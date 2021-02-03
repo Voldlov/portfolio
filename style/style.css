@@ -1,18 +1,54 @@
-/*
-Balises
-*/
-
 body {
-    background-color: white;
+    text-align: center;
+    font: italic 1.2em "Fira Sans", serif;
+    background-image: url("../img/embuscade.jpg");
+    background-attachment: fixed;
 }
-
-/*
-Classes
-*/
-.large {
+body p::first-letter, h1:first-letter, h2:first-letter {
+    color: rgb(139, 4, 4);
+    font-size: 20pt;
+}
+section, .large {
     width: 100%;
+    background-color: white;
+    z-index: 2;
+    padding: 1%;
+}
+.second {
+    background-color: black;
+    color: white;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+header a, footer a {
+    color: white;
+}
+header, footer {
+    z-index: 5;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+/*
+header {
+    top: 0px;
+}
+footer {
+    bottom: 0px;
+}
+*/
+.portfolio {
+    background-image: url("../img/portfolio.jpg");
+    height: 700px;
+}
+.large, .imgsect {
+    margin-top: 5%;
 }
 
-/*
-ID
-*/
+img {
+    max-width: 100px;
+    height: auto;
+    
+}
