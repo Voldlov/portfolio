@@ -1,5 +1,5 @@
 # portfolio
-My portfolio
+My portfolio, par GAIO DOS SANTOS Lucas. Version 0.1.
 ## source img :
 Vous trouverez, ci-dessous, les liens pour les pages des images, sur artstation. Ce n'est pas mon travail et je ne touche pas un centime sur ce site, mais je voulais illustrer de façon convenable et ces artistes font un travail formidable, je me devait de présenter leurs oeuvres et biensur de les mettre dans le readme pour les retrouver.
 
